@@ -1,0 +1,7 @@
+Sales Summary
+----------------------------
+ Total Sales: ₦1,076.50
+
+ Details:
+  store1.txt: ₦425.75
+  store2.txt: ₦650.75
